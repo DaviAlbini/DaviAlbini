@@ -3,11 +3,6 @@
   <img src="https://raw.githubusercontent.com/DaviAlbini/DaviAlbini/main/assets/banner-linkedin.png" width="100%" alt="Banner - Davi Albini"/>
 </p>
 
-<p align="left">Data Analyst • BI & Data Science & Bioinformatics • 🇧🇷 Curitiba, PR</p>
-
-> _"I don't just analyze data, I uncover possibilities."_
-
-
 ### Tecnologias que uso
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
