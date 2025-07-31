@@ -3,7 +3,6 @@
   <img src="https://raw.githubusercontent.com/DaviAlbini/DaviAlbini/main/assets/banner-linkedin.png" width="100%" alt="Banner - Davi Albini"/>
 </p>
 
-<h1 align="left">Davi Albini</h1>
 <p align="left">Data Analyst • BI & Data Science & Bioinformatics • 🇧🇷 Curitiba, PR</p>
 
 > _"I don't just analyze data, I uncover possibilities."_
